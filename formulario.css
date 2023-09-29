@@ -1,0 +1,21 @@
+header {
+    background-color: rgb(51, 133, 129);
+    width: 500px;
+    height: 830px;
+    margin-left: 400px;
+    margin-top: 50px;
+    font-size: larger;
+    font-style: inherit;
+    color: aliceblue;
+    text-align: center;
+    align-items: flex-start;
+
+}
+
+body {
+    background-color: rgb(54, 158, 149);
+}
+
+ul {
+    text-align: left;
+}

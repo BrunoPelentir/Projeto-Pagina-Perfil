@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(54, 158, 149);
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+}
+
+div {
+    display: flex;
+}
+
+img {
+    width: 200px;
+    margin-top: 15px;
+    margin-left: 15px;
+
+}
+
+header {
+    background-color: rgb(51, 133, 129);
+    font-style: normal;
+    color: aliceblue;
+    text-align: center;
+    padding: center;
+    margin-left: 15px;
+    width: 100%;
+
+    margin-top: 15px;
+    margin-right: 15px;
+}
+
+ul {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    width: 100%;
+    margin-top: 15px;
+    margin-left: -20px;
+}
+
+p{
+    margin-left: 20px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+}
